@@ -25,7 +25,6 @@
     Writting the backend code for a note taking app. This is my first glance at back end coding.
 
   # Screenshots
-  *ENTER SCREENSHOTS HERE*
   ![Screenshot of project](271DB03A-48A4-44CD-B67C-03AA7DB909D9.jpeg)
 
   # Installations
